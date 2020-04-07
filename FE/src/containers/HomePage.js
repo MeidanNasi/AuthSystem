@@ -5,10 +5,10 @@ function HomePage() {
   return (
     <div className="App">
       Home
-      <button
+      <button className="button"
       onClick={()=>{
         logout()
-        window.location("/"); // redirect to landing page.
+        //redirect to first page.
       }}
       > 
       logout
