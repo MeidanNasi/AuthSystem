@@ -1,9 +1,9 @@
 # AuthSystem
 authentication system with JWT
 
-FE using ReactJs /n
-BE using NodeJS
-DB using MongoDB Cloud
+FE using ReactJs,
+BE using NodeJS,
+DB using MongoDB Cloud,
 
 # Setup:
 
